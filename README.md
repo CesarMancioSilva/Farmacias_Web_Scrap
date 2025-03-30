@@ -1,6 +1,6 @@
 # Scraper de Farmácias - Automatização de Coleta de Dados
 
-Este projeto é uma solução automatizada para a coleta diária de dados de farmácias da minha cidade. Desenvolvido em Python, ele monitora informações de vendas por delivery, organiza os dados em arquivos CSV e os consolida em um único arquivo. O sistema utiliza APIs para obter dados de categorias e itens de farmácias específicas, garantindo um monitoramento eficiente e estruturado.
+Este projeto é uma solução automatizada para a coleta diária de dados de farmácias da minha cidade. Desenvolvido em Python, ele monitora informações de vendas por delivery, organiza os dados em arquivos CSV e os consolida em um único arquivo. O sistema utiliza APIs expostas para obter dados de categorias e itens de farmácias específicas, garantindo um monitoramento eficiente e estruturado.
 
 Os dados não serão mantidos no repositório por questões legais e termos de uso das plataformas acessadas.
 
